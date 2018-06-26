@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso de JS com TSS na pratica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipemarins/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Filipe Marins <filipemarins123@gmail.com> (https://filipemarins.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filipemarins/js-tdd/issues"
+  },
+  "homepage": "https://github.com/filipemarins/js-tdd#readme"
+}
